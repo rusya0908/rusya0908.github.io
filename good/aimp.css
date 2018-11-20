@@ -1,0 +1,29 @@
+body{
+font-weight: bold;
+color: black;
+background-color:  hsla(89, 43%, 51%, 0.3);
+}
+p{
+color: black;
+background-color:  hsla(89, 43%, 51%, 0.3);
+}
+td{
+	font-weight: bold;
+	border:2px solid white;
+}
+tr{
+	font-weight: bold;
+border:2px solid white;
+}
+a{
+	font-size: 16pt;
+	color:red;
+}
+*{
+	text-align: center-left;
+	font-size: 11pt;
+	font-family:  Snell Roundhand, cursive;
+}
+hr{
+	background-color: hsla(89, 43%, 51%, 0.3);
+}
